@@ -56,11 +56,10 @@ For details of the methods and results, please refer to our paper.
 
 
 ```bibtex
-@article{Li-2022-DiffusionLM,
-  title={Diffusion-LM Improves Controllable Text Generation},
-  author={Xiang Lisa Li and John Thickstun and Ishaan Gulrajani and Percy Liang and Tatsunori Hashimoto},
-  journal={ArXiv},
-  year={2022},
-  volume={abs/2205.14217}
+@article{tang2022dptdr,
+  title={DPTDR: Deep Prompt Tuning for Dense Passage Retrieval},
+  author={Tang, Zhengyang and Wang, Benyou and Yao, Ting},
+  journal={arXiv preprint arXiv:2208.11503},
+  year={2022}
 }
 ```
